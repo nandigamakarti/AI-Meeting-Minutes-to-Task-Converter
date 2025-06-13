@@ -57,27 +57,6 @@ AI-Meeting-Minutes-to-Task-Converter is designed for teams and professionals who
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-[MIT](LICENSE)
-
-### 3. Create .env file
-Create a .env file in the root directory with your Gemini API key:
-```
-GEMINI_API_KEY=your_google_gemini_api_key_here
-```
-### 4. Run the development server
-```
-npm run dev
-
-```
-
 ### ✨ Features
 #### 🔹 Manual Task Entry
 Add tasks using natural language
@@ -118,16 +97,16 @@ Color-coded priorities and confidence scores
 
 Responsive layout for desktop, mobile, and tablet
 
-## Output Screenshots
 
-1. ![image](https://github.com/user-attachments/assets/2572002a-adc9-45e8-9552-8ac468428b0f)
-2. ![image](https://github.com/user-attachments/assets/ce203bfe-7d2d-4161-bd73-93b868284b98)
-3. ![image](https://github.com/user-attachments/assets/2c962574-7111-496f-a799-58792721e291)
-4. ![image](https://github.com/user-attachments/assets/7ebc9a62-982d-4771-aaca-e14f350c5558)
-5. ![image](https://github.com/user-attachments/assets/473a7093-bf33-48d2-b100-15065af5440e)
-6. ![image](https://github.com/user-attachments/assets/6fadb494-f61b-40aa-85e2-c4202f28f34e)
-7. ![image](https://github.com/user-attachments/assets/06561eea-4dd6-41ce-af6c-50cd811a9d9a)
+## 🤝 Contributing
 
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📄 License
+
+[MIT](LICENSE)
 
 
 
