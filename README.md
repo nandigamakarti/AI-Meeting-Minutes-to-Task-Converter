@@ -26,15 +26,14 @@ Transform your meeting minutes into actionable tasks with AI! This app leverages
     ```bash
     npm install
     ```
-3. **Set up your API key**
-    - Create a `.env` file in the root directory:
-      ```env
-      GEMINI_API_KEY=your_google_gemini_api_key_here
-      ```
-4. **Run the development server**
+3. **Run the development server**
     ```bash
     npm run dev
     ```
+
+---
+
+**No environment variables or API keys are required for setup.**
 
 ---
 
