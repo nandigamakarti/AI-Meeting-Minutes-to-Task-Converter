@@ -51,53 +51,6 @@ Below are example output pages from the app:
 
 ---
 
-## 📚 About
-
-AI-Meeting-Minutes-to-Task-Converter is designed for teams and professionals who want to automate the tedious process of turning meeting notes into actionable plans. Powered by Google Gemini AI, it ensures accuracy, speed, and ease of use.
-
----
-
-### ✨ Features
-#### 🔹 Manual Task Entry
-Add tasks using natural language
-
-Gemini or regex-based parsing
-
-Smart due date, assignee, and priority extraction
-
-#### 🔹 Meeting Minutes Parser
-Paste meeting transcript in a dedicated tab
-
-AI processes transcript using Gemini to extract multiple tasks
-
-Tasks previewed with option to edit and bulk-add
-
-#### 🔹 Enhanced Task Cards
-Unified task board for manual and meeting-derived tasks
-
-Task metadata: description, assignee, deadline, priority
-
-Source indicators: Manual / Meeting
-
-AI confidence indicators (High/Med/Low)
-
-#### 🔹 Client-Side Storage
-All tasks stored in localStorage
-
-No backend required
-
-#### 🎨 UI Highlights
-Modern, enterprise-grade interface
-
-Tabs for "Add Task" and "Meeting Parser"
-
-Animations on parsing, task addition, and editing
-
-Color-coded priorities and confidence scores
-
-Responsive layout for desktop, mobile, and tablet
-
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
