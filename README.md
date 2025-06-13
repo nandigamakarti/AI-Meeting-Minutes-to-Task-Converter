@@ -41,11 +41,13 @@ Transform your meeting minutes into actionable tasks with AI! This app leverages
 
 Below are example output pages from the app:
 
-1. ![Meeting Minutes Input](https://github.com/user-attachments/assets/2572002a-adc9-45e8-9552-8ac468428b0f)
-2. ![AI-Extracted Tasks Preview](https://github.com/user-attachments/assets/ce203bfe-7d2d-4161-bd73-93b868284b98)
-3. ![Task Board](https://github.com/user-attachments/assets/2c962574-7111-496f-a799-58792721e291)
-4. ![Edit Task Modal](https://github.com/user-attachments/assets/7ebc9a62-982d-4771-aaca-e14f350c5558)
-5. ![Mobile Responsive View](https://github.com/user-attachments/assets/473a7093-bf33-48d2-b100-15065af5440e)
+<img width="1470" alt="Screenshot 2025-06-13 at 12 16 17 PM" src="https://github.com/user-attachments/assets/072952b9-4a02-46ea-9d91-a6c104e80ab6" />
+<img width="1470" alt="Screenshot 2025-06-13 at 12 16 33 PM" src="https://github.com/user-attachments/assets/2b54413e-e542-4a49-aac4-a2e4d366f491" />
+<img width="1470" alt="Screenshot 2025-06-13 at 12 16 42 PM" src="https://github.com/user-attachments/assets/2f37928f-94ae-4f41-ba83-c4984174879f" />
+<img width="1470" alt="Screenshot 2025-06-13 at 12 16 52 PM" src="https://github.com/user-attachments/assets/36a560b5-e624-41ca-91ec-2dae3b9cc753" />
+<img width="1470" alt="Screenshot 2025-06-13 at 12 16 59 PM" src="https://github.com/user-attachments/assets/aa564a3e-ac94-41a5-8f89-c8f7b078d3bb" />
+<img width="1470" alt="Screenshot 2025-06-13 at 12 17 09 PM" src="https://github.com/user-attachments/assets/17151896-09f2-4369-8030-a6d110e60c3f" />
+
 
 ---
 
