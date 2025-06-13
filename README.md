@@ -19,7 +19,7 @@ Transform your meeting minutes into actionable tasks with AI! This app leverages
 
 1. **Clone the repository**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/nandigamakarti/AI-Meeting-Minutes-to-Task-Converter.git
     cd AI-Meeting-Minutes-to-Task-Converter
     ```
 2. **Install dependencies**
